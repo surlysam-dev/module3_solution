@@ -1,0 +1,18 @@
+
+ul.navbar-nav li {
+  text-align: center;
+}
+
+.wholescreen {
+  height: 100vh;
+}
+
+.menuchoice {
+  background-color: #809c9c;
+  color: #0a0a0a;
+}
+
+.menuheading, .menuheading:hover, .menuheading:active, .menuheading:visited {
+  text-decoration: none;
+  color: inherit
+}
